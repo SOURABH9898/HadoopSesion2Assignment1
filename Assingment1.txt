@@ -1,0 +1,29 @@
+Q-1
+b. Map and Reduce
+
+Q-2
+a. Blocks
+
+Q-3
+b. Local disk
+
+Q-4
+a. Job Tracker, Task Tracker, namenode and Datanode
+
+Q-5
+b. Masters
+
+Q-6 
+a. namenode
+
+Q-7
+c. CheckPoint Node
+
+Q-8
+b. 64 MB
+
+Q-9
+d. Data node and resource manager
+
+Q-10
+b. Data nodes
